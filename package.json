@@ -1,0 +1,8 @@
+{
+  "name": "whistle.set-req-len",
+  "version": "1.0.0",
+  "description": "设置请求头 content-length 的插件",
+  "whistleConfig": {
+    "hideLongProtocol": true
+  }
+}
